@@ -1,0 +1,70 @@
+{
+	"folders": [
+		{
+			"path": "../__pycache__"
+		},
+		{
+			"path": "../Association_Module"
+		},
+		{
+			"path": "../Award_Module"
+		},
+		{
+			"path": "../Bio_Detail_Module"
+		},
+		{
+			"path": "../Clinical Trial_Module"
+		},
+		{
+			"path": "../Dashboard_Module"
+		},
+		{
+			"path": "../drivers"
+		},
+		{
+			"path": "../Education_Module"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Event_Module"
+		},
+		{
+			"path": "../image_compress"
+		},
+		{
+			"path": "../image_compress.py"
+		},
+		{
+			"path": "../Interaction_Module"
+		},
+		{
+			"path": "../Login_Module"
+		},
+		{
+			"path": "../Manage Permission_Modue"
+		},
+		{
+			"path": "../Payment_Module"
+		},
+		{
+			"path": "../Peer_Dco_image_jpg.py"
+		},
+		{
+			"path": "../Press Release_Module"
+		},
+		{
+			"path": "../Publications_Module"
+		},
+		{
+			"path": "../sample code"
+		},
+		{
+			"path": "../SM Analytics_Module"
+		},
+		{
+			"path": "../Surveys_Module"
+		}
+	]
+}
